@@ -1,7 +1,7 @@
 Research Software Engineering Groups in Colleges: The Story from the UK
 ===============================================================================================
 
-Authors: James Hetherington, Simon Hettrick, James Spencer (@all add names here)
+Authors: James Hetherington, Simon Hettrick, James Spencer, Robert Haines (@all add names here)
 
 In the UK, the last few years have seen increasing adoption of the title "Research Software Engineer",
 to refer to those members of the research community who principally contribute to the research effort
@@ -12,7 +12,7 @@ software engineer and researcher.
 Until recently, most research software engineers in universities have existed as RAs in individual
 research groups, measured on traditional academic career metrics, an unsatisfactory approach, 
 as they are then isolated, unable to learn from other scientific programmers. In addition, 
-since their software efforts doesn't permit progression in academic career tracks, they are quickly
+since their software efforts do not permit progression in academic career tracks, they are quickly
 lost to research, a leading cause of lack of sustainability and degradation of quality in the
 research code inventory.
 
@@ -25,7 +25,7 @@ growth through grant funded project work, and leadership on training researchers
 computational research skills is the typical approach. Such groups now exist at University College London, 
 Manchester, Southampton, Bristol and Sheffield, and more continue to emerge. 
 
-Funding to establish the Research Software Engineer role in the UK has been created
+Funding to further establish the Research Software Engineer role in the UK has been created
 through a new Research Software Engineering Fellowship offered by the UK
 Engineering and Physical Sciences Research Council. This offers a prestigious research
 council fellowship for expert collaborative support, rather than an independent research programme,
