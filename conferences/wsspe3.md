@@ -1,7 +1,7 @@
 Research Software Engineering Groups in Universities: The Story from the UK
 ===========================================================================
 
-Authors: James Hetherington, Jonathan Cooper, Robert Haines, Simon Hettrick, James Spencer, Mark Stillwell (@all add names here)
+Authors: James Hetherington, Jonathan Cooper, Robert Haines, Simon Hettrick, James Spencer, Mark Stillwell, Michael Croucher (@all add names here)
 
 In the UK, the last few years have seen increasing adoption of the title
 "Research Software Engineer", to refer to those members of the research
