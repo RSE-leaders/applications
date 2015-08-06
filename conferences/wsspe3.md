@@ -1,8 +1,7 @@
-Research Software Engineering Groups in Colleges: The Story from the UK
-=======================================================================
+Research Software Engineering Groups in Universities: The Story from the UK
+===========================================================================
 
-Authors: James Hetherington, Simon Hettrick, James Spencer, Mark Stillwell,
-Robert Haines (@all add names here)
+Authors: James Hetherington, Jonathan Cooper, Robert Haines, Simon Hettrick, James Spencer, Mark Stillwell (@all add names here)
 
 In the UK, the last few years have seen increasing adoption of the title
 "Research Software Engineer", to refer to those members of the research
@@ -29,9 +28,9 @@ EPSRC[@epsrc:software-as-infrastructure], and the European
 Commission[@ec:software-technologies] to encourage the development of more
 sustainable and reusable research software.
 
-Now, however, UK research-intensive universities are starting to create
+Going beyond this, UK research-intensive universities are starting to create
 centralised Research Software Engineering Groups. By aggregating demand for
-research software engineers across the college, these groups are able to
+research software engineers across the institution, these groups are able to
 provide a sustainable home for scientific programmers. Demand for the efforts
 of these groups is high, with rapid growth trajectories common. A mixed model
 of both free-at-the-point of use programming services offered to the
@@ -48,9 +47,9 @@ council fellowship for expert collaborative support, rather than an
 independent research programme, a first of its kind, and, we believe, an
 important contribution to the future of team-based science.
 
-The nature of the RSE role in colleges contrasts those in national labs, which
+The nature of the RSE role in universities contrasts those in national labs, which
 have long offered a stable home for scientific programmers on large, sustained,
 important software projects. However, the majority of scientific software is
 the longer tail of research software used and developed in research groups in
-colleges all over the world. The University RSE group offers a promising
+academic institutions all over the world. The University RSE group offers a promising
 solution to improve the quality and sustainability of these activities.
