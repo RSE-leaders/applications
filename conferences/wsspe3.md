@@ -53,3 +53,5 @@ important software projects. However, the majority of scientific software is
 the longer tail of research software used and developed in research groups in
 academic institutions all over the world. The University RSE group offers a promising
 solution to improve the quality and sustainability of these activities.
+
+## References
