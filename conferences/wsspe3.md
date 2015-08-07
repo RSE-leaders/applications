@@ -2,7 +2,7 @@ Research Software Engineering Groups in Universities: The Story from the UK
 ===========================================================================
 
 Authors: James Hetherington, Jonathan Cooper, Robert Haines, Simon Hettrick, 
-James Spencer, Mark Stillwell, Michael Croucher, Christopher Woods (@all add names here)
+James Spencer, Mark Stillwell, Michael Croucher, Christopher Woods
 
 In the UK, the last few years have seen increasing adoption of the title
 "Research Software Engineer", to refer to those members of the research
@@ -49,17 +49,5 @@ Physical Sciences Research Council (EPSRC)[@epsrc:rse-fellowships]. This offers
 a prestigious research council fellowship for expert collaborative support,
 rather than an independent research programme. This is a first of its kind, and, we
 believe, an important contribution to the future of team-based science. 
-
-====== CW - I don't think we need the below paragraph ======
-These developments are encouraging and show that there is support for creating
-a sustainable RSE role at both the university and funder level. However, in and
-of themselves they are not enough to make the role sustainable so that
-sufficient numbers of talented and capable individuals will chose to take on
-the duties of an RSE. What is really needed is the creation of a stable long
-term career path that recognizes RSEs as being on-par with traditional
-academics[@parr2013syw]. Some form of "horizontal" mobility is likely to be
-necessary as well, as individuals are likely to want to switch back and forth
-several times over the course of their career, and would be discouraged from
-taking on RSE duties if they entail too much personal sacrifice.
 
 ## References
